@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3-column-preview-card-component-responsive-pure-html-css-2cESmkY8qy)
+- Live Site URL: [Live Site URL](https://omarrefaee.github.io/3-column-preview-card-component/)
 
 ## My process
 
